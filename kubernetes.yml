@@ -60,7 +60,7 @@ spec:
       protocol: TCP
       port: 8006
       targetPort: 8006
-      nodePort: 48006
+      nodePort: 4806
     - name: tcp-3389
       protocol: TCP
       port: 3389
